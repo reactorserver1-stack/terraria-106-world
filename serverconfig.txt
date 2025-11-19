@@ -1,0 +1,7 @@
+world=Worlds/mundo.wld
+port=7777
+maxplayers=8
+password=
+autocreate=1
+worldname=MundoCodespace
+autoShutdown=False
